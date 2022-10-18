@@ -59,7 +59,7 @@ section {
   text-decoration: none;
   display: block;
 }
-#p_center {
+.p_center {
   text-align: center;
 }
 #sudoku {
