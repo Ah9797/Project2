@@ -1,5 +1,5 @@
 body {
-  background-color: aqua;
+  background-color: #00ffff;
 }
 h1 {
   text-align: center;
@@ -24,7 +24,7 @@ section {
   margin-right: 4em;
 }
 #nav-bar {
-  background-color: gray;
+  background-color: #808080;
   float: left;
   width: 100%;
   overflow: hidden;
@@ -62,4 +62,7 @@ section {
 #sudoku {
   width: 150px;
   height: 150px;
+  border-color: #000;
+  border: 3px;
+  border-style: solid;
 }
